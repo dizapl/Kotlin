@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_diana">Hello, Diana!</string>
+    <string name="btn_click_here">Click here</string>
+    <string name="welcome_second_fragment">Welcome to the Second fragment ;)</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="welcome_third_fragment">Welcome to the Third fragment ;)</string>
+    <string name="back_button2">Back</string>
+    <string name="home_button">Home</string>
+</resources>
