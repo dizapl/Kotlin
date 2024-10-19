@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine Bewerbung</string>
+    <string name="hello_diana">Hallo, Diana!</string>
+    <string name="btn_click_here">Klick hier</string>
+    <string name="welcome_second_fragment">Willkommen im zweiten Fragment ;)</string>
+    <string name="next_button">Weiter</string>
+    <string name="back_button">Zurück</string>
+    <string name="welcome_third_fragment">Willkommen im dritten Fragment ;)</string>
+    <string name="back_button2">Zurück</string>
+    <string name="home_button">Startseite</string>
+</resources>
